@@ -217,13 +217,13 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
     Mark all boxes with X after you completed your changes
 
-`git add . `
+`git add .`
 
-`git commit -m "Marked x" `
+`git commit -m "Marked x"`
 
-`git rebase jwasham/master `
+`git rebase jwasham/master`
 
-`git push --force `
+`git push --force`
 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
@@ -265,6 +265,10 @@ Sometimes the classes are not in session so you have to wait a couple of months,
         - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
     - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
         - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more.
+    - [ ] [Intro to Data Structures and Algorithms using Python! (Udacity free course)](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513):
+        - A free Python centric data structures and algorithms course.
+    - [ ] [Data Structures and Algorithms Nanodegree! (Udacity paid Nanodegree)](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256):
+        - Get hands-on practice with over 100 data structures and algorithm exercises and guidance from a dedicated mentor to help prepare you for interviews and on-the-job scenarios.
 
 </details>
 
@@ -344,7 +348,7 @@ Choose one:
 
 Here are my recommendations by language. I don't have resources for all languages. I welcome additions.
 
-If you read though one of these, you should have all the data structures and algorithms knowledge you'll need to start doing coding problems.
+If you read through one of these, you should have all the data structures and algorithms knowledge you'll need to start doing coding problems.
 **You can skip all the video lectures in this project**, unless you'd like a review.
 
 [Additional language-specific resources here.](programming-language-resources.md)
